@@ -33,7 +33,7 @@ BOT_TOKEN = "5736708726:AAHWkpWD7PUxLrWZpj2YGuvjNDwFf9Vih9w"
 UPDATES_CHANNEL = "jvpvipchat"
 OWNER= [5288533304,1669178360]
 PREMIUM= ["Superior_bots", "Superior_Support"]
-vitcim = 'vitcimjvp'
+vitcim = 'vitcimjvpx'
 app = pyrogram.Client("app", api_id=APP_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
 with open("data.csv", encoding='UTF-8') as f:
